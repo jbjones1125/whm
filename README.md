@@ -1,7 +1,6 @@
 # Overview
 
 ## Spells:
-
 Have a Global Cooldown (GCD) of 2.5 Seconds
 
 ![Spells](https://cdn.discordapp.com/attachments/494294585741410305/1077323882538749992/Spells.png)
@@ -17,6 +16,7 @@ The idea is you **always** want the global cooldown running, you accomplish this
 
 
 # Damage
+
 ## Single Target:
 ![Single Target](https://cdn.discordapp.com/attachments/494294585741410305/1077343091796742174/SingleTarget.png)
 
