@@ -30,3 +30,10 @@ When fighting one enemy you spam Glare, keep the Dia DoT ticking, and press Assi
 When fighting 3 or more enemies, you spam Holy and press Assize off cooldown
 
 ---
+
+## Heals
+
+### Single Target:
+![Single Target Heals]()
+### AoE:
+![AoE Heals]()
