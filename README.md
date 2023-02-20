@@ -1,3 +1,7 @@
+<style>
+H1 { border-bottom: none; }
+</style>
+
 # Overview
 
 ## Spells:
