@@ -23,6 +23,8 @@ The idea is you **always** want the global cooldown running, you accomplish this
 
 When fighting one enemy you spam Glare, keep the Dia DoT ticking, and press Assize off cooldown
 
+-
+
 ### 3+ Enemies:
 ![aoe](https://cdn.discordapp.com/attachments/494294585741410305/1077344306219733142/aoe.png)
 
