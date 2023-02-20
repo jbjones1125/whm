@@ -34,7 +34,7 @@ When fighting 3 or more enemies, you spam Holy and press Assize off cooldown
 
 - **Dungeons** - Use when your tank gets a big group of monsters so you can spam Holy faster (or you can save it for the boss, who cares)
 
-- **Boss** - Spam off cooldown (to spam Glare faster)
+- **Boss** - Press off cooldown (to spam Glare faster)
 
 ---
 
