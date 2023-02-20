@@ -13,7 +13,7 @@ Instant Cast and Off the Global Cooldown (oGCD)
 ![Abilities](https://cdn.discordapp.com/attachments/494294585741410305/1077325712454848574/Abilities.png)
 
 
-The idea is you **always** want the global cooldown running, you accomplish this by pressing a __spell__ every time you can. __Abilities__ are used inbetween spells, at most you can weave two abilities for every one spell.
+The idea is you **always** want the global cooldown running, you accomplish this by pressing a ![spell](spell) every time you can. __Abilities__ are used inbetween spells, at most you can weave two abilities for every one spell.
 
 ---
 
