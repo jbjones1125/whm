@@ -30,8 +30,7 @@ When fighting one enemy you spam Glare, keep the Dia DoT ticking, and press Assi
 When fighting 3 or more enemies, you spam Holy and press Assize off cooldown
 
 ## Presence of Mind:
-![Presence of Mind](https://cdn.discordapp.com/attachments/494294585741410305/1077348118762377336/PoM.png)
-This is White Mage's big 2 minute CD buff that lowers cast time and recast time of everything
+![Presence of Mind](https://cdn.discordapp.com/attachments/494294585741410305/1077349880332300398/PoM.png)
 
 __Dungeons__: Use when your tank gets a big group of monsters so you can spam Holy faster (or you can save it for the boss, who cares)
 __Boss__: Spam off cooldown
