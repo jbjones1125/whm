@@ -20,3 +20,5 @@ The idea is you **always** want the global cooldown running, you accomplish this
 ## Damage
 ### Single Target:
 ![Single Target](https://cdn.discordapp.com/attachments/494294585741410305/1077343091796742174/SingleTarget.png)
+
+### 3+ Enemies:
