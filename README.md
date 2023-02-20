@@ -15,7 +15,6 @@ Instant Cast and Off the Global Cooldown (oGCD)
 
 The idea is you **always** want the global cooldown running, you accomplish this by pressing a [spell](#Spells) every time you can. [Abilities](#Abilities) are used inbetween spells, at most you can weave two abilities for every one spell.
 
----
 
 ## Damage
 ### Single Target:
