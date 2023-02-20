@@ -9,6 +9,6 @@
 
 The idea is you **always** want the global cooldown running, you accomplish this by pressing a __spell__ every time you can. __Abilities__ are used inbetween spells, at most you can weave two abilities for every one spell.
 
----
+===
 # Damage
 
