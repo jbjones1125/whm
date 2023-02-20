@@ -32,9 +32,8 @@ When fighting 3 or more enemies, you spam Holy and press Assize off cooldown
 ## Presence of Mind:
 ![Presence of Mind](https://cdn.discordapp.com/attachments/494294585741410305/1077349880332300398/PoM.png)
 
-**Dungeons**: Use when your tank gets a big group of monsters so you can spam Holy faster (or you can save it for the boss, who cares)
-
-**Boss**: Spam off cooldown
+-Dungeons: Use when your tank gets a big group of monsters so you can spam Holy faster (or you can save it for the boss, who cares)
+-Boss: Spam off cooldown
 
 ---
 
