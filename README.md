@@ -72,4 +72,7 @@ The majority of your button presses as a white mage are going to be Glare. Your 
 
 ![General Gameplay](https://cdn.discordapp.com/attachments/494294585741410305/1077412121513574560/generalplay.png)
 
+---
+## Reminders:
+
 ![General Gameplay 2](https://cdn.discordapp.com/attachments/494294585741410305/1077411005694476428/generalplay2.png)
