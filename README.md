@@ -60,9 +60,11 @@ This is the simple job gauge. At the top you have three spots for lilies and at 
 The bar charges up while you're in combat and once it fills it gives you 1 Lily. This lily is what you need to be able to use Afflatus Solace and Afflatus Rapture, the instant cast GCD single target heal and aoe heal.
 Once you use 3 lilies and fully fill the blood lily gauge (fill the 3 spots with red), you can cast Afflatus Misery, which is a big aoe nuke on a target (it's satisfying).
 
-Advanced: Using three lily heals and then the Afflatus Misery to do big damage does the same amount of damage as if you had just cast Glare the entire time without healing at all, so if you used 2-3 lilies in a boss fight already, you should try to finish filling the blood lily gauge and cast Afflatus Misery before the boss dies.
-This doesn't mean to spam your heals to get it out as fast as possible, but if the boss dies without you using it you've "wasted" damage.
+>Advanced: Using three lily heals and then the Afflatus Misery to do big damage does the same amount of damage as if you had just cast Glare the entire time without healing at all, so if you used 2-3 lilies in a boss fight already, you should try to finish filling the blood lily gauge and cast Afflatus Misery before the boss dies.
+This doesn't mean to spam your heals to get it out as fast as possible, but if the boss dies without you using your nuke you've "wasted" damage.
 
 ---
+
+## General Gameplay
 
 
