@@ -91,3 +91,6 @@ The majority of your button presses as a white mage are going to be Glare. Your 
 I didn't make that pic but it's pretty good, just make sure to look at your party's debuffs to see if you can remove any. You can only remove debuffs with the white bar at the top, absolutely be on top of this. (Unless you deem the debuff isn't worth your time)
 
 IF YOU CAN ESUNA `DOOM`, YOU GOTTA.
+
+## The Rest
+![Mit](https://cdn.discordapp.com/attachments/494294585741410305/1077415458208223242/ignored.png)
