@@ -67,4 +67,5 @@ This doesn't mean to spam your heals to get it out as fast as possible, but if t
 
 ## General Gameplay
 
-
+In FFXIV, EVERYONE does damage, EVERYONE is a DPS.
+90% of your button presses as a white mage are going to be Glare. >(This is an exaggeration)
