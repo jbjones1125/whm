@@ -44,5 +44,5 @@ When fighting 3 or more enemies, you spam Holy and press Assize off cooldown.
 
 ### Single Target:
 ![Single Target Heals](https://cdn.discordapp.com/attachments/494294585741410305/1077366296091578508/SingleTargetHeals.png)
-### AoE:
+### Area of Effect:
 ![AoE Heals](https://cdn.discordapp.com/attachments/494294585741410305/1077393132158718104/AoEHealing.png)
