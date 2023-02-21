@@ -71,3 +71,4 @@ In FFXIV, EVERYONE does damage, EVERYONE is a DPS.
 The majority of your button presses as a white mage are going to be Glare. Your goal is to get off as much damage as possible without anyone dying.
 
 ![General Gameplay](https://cdn.discordapp.com/attachments/494294585741410305/1077408191748513832/generalplay.png)
+![General Gameplay 2](https://cdn.discordapp.com/attachments/494294585741410305/1077411005694476428/generalplay2.png)
