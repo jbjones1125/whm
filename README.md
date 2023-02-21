@@ -76,3 +76,18 @@ The majority of your button presses as a white mage are going to be Glare. Your 
 ## Reminders:
 
 ![General Gameplay 2](https://cdn.discordapp.com/attachments/494294585741410305/1077411005694476428/generalplay2.png)
+
+### READ YOUR ROLE ACTIONS!
+Repose: It puts enemies to sleep no one ever uses this
+Surecast: Stops most knockbacks from knocking you back and most pulls from pulling you
+Rescue: Brings a target ally to your side, good for trolling
+Swiftcast: Pretty much just save it for use in conjunction with Raise
+Lucid Dreaming: When you're at about ~80% mana during a boss fight, use this, pretty much use it off CD
+Esuna: Removes a debuff from an ally (Not all debuffs)
+
+### What the ***fuck*** is Esuna?
+![Esuna](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/2/26/ThingsThatCanBeEsuna.png/500px-ThingsThatCanBeEsuna.png)
+
+I didn't make that pic but it's pretty good, just make sure to look at your party's debuffs to see if you can remove any. You can only remove debuffs with the white bar at the top, absolutely be on top of this. (Unless you deem the debuff isn't worth your time)
+
+IF YOU CAN ESUNA `DOOM`, YOU GOTTA.
