@@ -29,7 +29,7 @@ When fighting one enemy you spam Glare, keep the Dia DoT ticking, and press Assi
 
 When fighting 3 or more enemies, you spam Holy and press Assize off cooldown.
 
-Note: Both Holy and Assize form a circle of damage with you at the center, so you have to be close to the enemies or allies for it to hit them.
+**Note: Both Holy and Assize form a circle of damage with you at the center, so you have to be close to the enemies or allies for it to hit them.**
 
 ## Presence of Mind:
 ![Presence of Mind](https://cdn.discordapp.com/attachments/494294585741410305/1077349880332300398/PoM.png)
