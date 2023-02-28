@@ -70,12 +70,12 @@ This doesn't mean to spam your heals to get it out as fast as possible, but if t
 In FFXIV, EVERYONE does damage, EVERYONE is a DPS.
 The majority of your button presses as a white mage are going to be Glare. Your goal is to get off as much damage as possible without anyone dying.
 
-![General Gameplay](https://cdn.discordapp.com/attachments/494294585741410305/1077412121513574560/generalplay.png)
+![General Gameplay](https://cdn.discordapp.com/attachments/1080027346314215454/1080028254766903336/generalplay.png)
 
 ---
 ## Reminders:
 
-![General Gameplay 2](https://cdn.discordapp.com/attachments/494294585741410305/1077411005694476428/generalplay2.png)
+![General Gameplay 2](https://cdn.discordapp.com/attachments/1080027346314215454/1080028267186225172/generalplay2.png)
 
 ### READ YOUR ROLE ACTIONS!
 - **Repose**: It puts enemies to sleep no one ever uses this
