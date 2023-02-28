@@ -9,7 +9,7 @@ Have a Global Cooldown (GCD) of 2.5 Seconds
 
 Instant Cast and Off the Global Cooldown (oGCD)
 
-![Abilities](https://cdn.discordapp.com/attachments/1080027346314215454/1080027688061906984/Abilities.png)
+![Abilities](images/Abilities.png)
 
 
 The idea is you **always** want the global cooldown running, you accomplish this by pressing a [spell](#Spells) every time you can. [Abilities](#Abilities) are used inbetween spells, at most you can weave two abilities for every one spell.
@@ -19,20 +19,20 @@ The idea is you **always** want the global cooldown running, you accomplish this
 ## Damage
 
 ### Single Target:
-![Single Target](https://cdn.discordapp.com/attachments/1080027346314215454/1080027748564738088/SingleTarget.png)
+![Single Target](images/SingleTarget.png)
 
 When fighting one enemy you spam Glare, keep the Dia DoT ticking, and press Assize off cooldown.
 
 
 ### 3+ Enemies:
-![aoe](https://cdn.discordapp.com/attachments/1080027346314215454/1080027769418821693/aoe.png)
+![aoe](images/aoe.png)
 
 When fighting 3 or more enemies, you spam Holy and press Assize off cooldown.
 
 #### IMPORTANT: Both Holy and Assize form a circle of damage with you at the center, so you have to be close to the enemies or allies for it to hit them.
 
 ## Presence of Mind:
-![Presence of Mind](https://cdn.discordapp.com/attachments/494294585741410305/1077349880332300398/PoM.png)
+![Presence of Mind](images/PoM.png)
 
 - **Dungeons** - Use when your tank gets a big group of monsters so you can spam Holy faster (or you can save it for the boss, who cares).
 
@@ -43,9 +43,9 @@ When fighting 3 or more enemies, you spam Holy and press Assize off cooldown.
 ## Heals
 
 ### Single Target:
-![Single Target Heals](https://cdn.discordapp.com/attachments/1080027346314215454/1080028031583793162/SingleTargetHeals.png)
+![Single Target Heals](images/SingleTargetHeals.png)
 ### Area of Effect:
-![AoE Heals](https://cdn.discordapp.com/attachments/1080027346314215454/1080028048952397835/AoEHealing.png)
+![AoE Heals](images/AoEHealing.png)
 
 ---
 
@@ -70,12 +70,12 @@ This doesn't mean to spam your heals to get it out as fast as possible, but if t
 In FFXIV, EVERYONE does damage, EVERYONE is a DPS.
 The majority of your button presses as a white mage are going to be Glare. Your goal is to get off as much damage as possible without anyone dying.
 
-![General Gameplay](https://cdn.discordapp.com/attachments/1080027346314215454/1080028254766903336/generalplay.png)
+![General Gameplay](images/generalplay.png)
 
 ---
 ## Reminders:
 
-![General Gameplay 2](https://cdn.discordapp.com/attachments/1080027346314215454/1080028267186225172/generalplay2.png)
+![General Gameplay 2](images/generalplay2.png)
 
 ### READ YOUR ROLE ACTIONS!
 - **Repose**: It puts enemies to sleep no one ever uses this
@@ -93,4 +93,4 @@ I didn't make that pic but it's pretty good, just make sure to look at your part
 IF YOU CAN ESUNA `DOOM`, YOU GOTTA.
 
 ## The Rest
-![Mit](https://cdn.discordapp.com/attachments/1080027346314215454/1080028470156996638/ignored.png)
+![Mit](images/ignored.png)
