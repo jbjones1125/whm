@@ -3,7 +3,7 @@
 ### Spells:
 Have a Global Cooldown (GCD) of 2.5 Seconds
 
-![Spells](/whm_pics/Spells.png)
+![Spells](./whm_pics/Spells.png)
 
 ### Abilities:
 
