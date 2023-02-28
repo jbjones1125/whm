@@ -93,4 +93,4 @@ I didn't make that pic but it's pretty good, just make sure to look at your part
 IF YOU CAN ESUNA `DOOM`, YOU GOTTA.
 
 ## The Rest
-![Mit](https://cdn.discordapp.com/attachments/494294585741410305/1077415458208223242/ignored.png)
+![Mit](https://cdn.discordapp.com/attachments/1080027346314215454/1080028470156996638/ignored.png)
